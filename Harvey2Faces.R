@@ -1,3 +1,6 @@
+# Two exercises where a third coin has two faces (P(x) = 1), and based on the conditional results
+# this model should determine the special coin, based on #N flips of each coin
+
 N <- 1000
 
 ### MONEDAS
