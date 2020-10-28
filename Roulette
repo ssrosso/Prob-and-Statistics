@@ -1,3 +1,5 @@
+# 3 Exercises with a simulated roulette, starting with a capital of $100.
+
 N <- 1
 capital = 100
 
