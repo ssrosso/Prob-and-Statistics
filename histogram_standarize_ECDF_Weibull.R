@@ -1,3 +1,4 @@
+#Exercises on a Weibull distribution
 library(ggplot2)
 n = 1000
 t= 60
